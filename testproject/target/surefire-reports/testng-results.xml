@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32469" started-at="2015-11-19T17:11:19Z" finished-at="2015-11-19T17:11:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32469" started-at="2015-11-19T17:11:19Z" finished-at="2015-11-19T17:11:52Z">
+      <class name="com.parent.scholastic.ParentsURL">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.parent.scholastic.ParentsURL@22e938f3]" name="openApp" duration-ms="13909" started-at="2015-11-19T22:41:38Z" finished-at="2015-11-19T22:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+      </class> <!-- com.parent.scholastic.ParentsURL -->
+      <class name="com.teacher.scholastic.TeacherURL">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:com.teacher.scholastic.TeacherURL@42e9485]" name="openApp" duration-ms="18546" started-at="2015-11-19T22:41:19Z" finished-at="2015-11-19T22:41:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+      </class> <!-- com.teacher.scholastic.TeacherURL -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
